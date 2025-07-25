@@ -6,4 +6,4 @@ As this problem continues to persist, this project will focus on the main reason
 
 # Insights
 
-Based on the Data provided, there is a denial rate of 32.8% and the total loss is $98,069. The top two reasons are Incorrect Billing Information (loss of $15.3k) and Authorization not obtained ($13.64k), which make up for 29.5% of the Total loss. One of the solutions is to ensure that hospitals take more time reviewing the bill amount ( listing the Itemized Bill) and having the authorization to perform the procedure.   
+Based on the Data provided, there is a denial rate of 32.8% and the total loss is $98,069. The top two reasons are Incorrect Billing Information (loss of $15.3k) and Authorization not obtained ($13.64k), which make up for 29.5% of the Total loss. One of the solutions is to ensure that hospitals take more time reviewing the bill amount ( listing the Itemized Bill) and having the authorization to perform the procedure. The visualizations also showed that the CPT Code 99221 has the most denied claims for Incorrect billing information, which makes sense since CPT code 99221 is about Inpatient hospital care.   
