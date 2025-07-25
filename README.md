@@ -4,3 +4,6 @@ Health insurance denials have been increasing in the upcoming years, with Senato
 
 As this problem continues to persist, this project will focus on the main reason why Insurance Companies are denying the claims, how much money hospitals are potentially losing and hopefully, this can provide insights on what hospitals can do to reduce these claims. Since Healthcare claims data are hard to obtain, the dataset contains synthetic data, but the analysis and approach are the same. 
 
+# Insights
+
+Based on the Data provided, there is a denial rate of 32.8% and the total loss is $98,069. The top two reasons are Incorrect Billing Information (loss of $15.3k) and Authorization not obtained ($13.64k), which make up for 29.5% of the Total loss. One of the solutions is to ensure that hospitals take more time reviewing the bill amount ( listing the Itemized Bill) and having the authorization to perform the procedure.   
