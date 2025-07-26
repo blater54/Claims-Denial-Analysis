@@ -1,4 +1,4 @@
-# 🏥 Claims Denial Analysis Dashboard
+#  Claims Denial Analysis Dashboard
 
 ## 📌 Introduction
 
@@ -14,38 +14,38 @@ Given these disparities and rising denial rates, this project investigates the *
 
 ## 📊 Insights
 
-### 🔸 Overall Denial Rate & Financial Impact
+###  Overall Denial Rate & Financial Impact
 - **Denial Rate**: 32.8%
 - **Total Projected Loss**: $98,069
 
-### 🔸 Top Two Denial Reasons
+###  Top Two Denial Reasons
 - **Incorrect Billing Information**: $15.3K loss  
 - **Authorization Not Obtained**: $13.64K loss  
 - Combined, these two represent **29.5% of total losses**  
 
-### 🔸 CPT Code Analysis
+###  CPT Code Analysis
 - **99221**: Highest denial rate due to billing errors (Inpatient hospital care)
 - **99233** and **99215**: Most frequently denied overall
 
-### 🔸 Insurance Type Breakdown
+###  Insurance Type Breakdown
 
-#### 🏦 Commercial / Private Insurance
+####  Commercial / Private Insurance
 - Responsible for **over 50% of all denials**
 - **53%** due to *Lack of Medical Necessity*
 - **39%** due to *Pre-existing Conditions*
 - Denials show a downward trend from **May to September**
 
-#### 💸 Self-Pay
+####  Self-Pay
 - Similar denial pattern to commercial insurance
 - Primary issue: **Duplicate Claims**
 - Duplicate claims increased by **60%** from May to September
 - Indicates possible re-submission of identical claims — warrants further review
 
-#### 🏛 Medicare
+####  Medicare
 - Main denial reason: **Incorrect Billing Information**
 - May reflect systemic documentation issues or process complexity
 
-#### 🏥 Medicaid
+####  Medicaid
 - **39%** of denials due to *Patient Eligibility Issues*
 - **38%** due to *Lack of Medical Necessity*
 - Denials from medical necessity have **steadily increased from May to September**
@@ -53,7 +53,7 @@ Given these disparities and rising denial rates, this project investigates the *
 
 ---
 
-## ✅ Conclusion
+##  Conclusion
 
 This analysis highlights key areas where hospitals and providers can reduce claim denials and prevent revenue loss. While insurance companies may continue to apply strict criteria, healthcare organizations can mitigate avoidable denials by:
 
