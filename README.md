@@ -18,11 +18,10 @@ Given these disparities and rising denial rates, this project investigates the *
 - **Denial Rate**: 32.8%
 - **Total Projected Loss**: $98,069
 
-### 🔸 Top Denial Reasons
+### 🔸 Top Two Denial Reasons
 - **Incorrect Billing Information**: $15.3K loss  
 - **Authorization Not Obtained**: $13.64K loss  
 - Combined, these two represent **29.5% of total losses**  
-- **Recommendation**: Improve billing audits and ensure prior authorizations are properly documented.
 
 ### 🔸 CPT Code Analysis
 - **99221**: Highest denial rate due to billing errors (Inpatient hospital care)
