@@ -19,12 +19,13 @@ Given these disparities and rising denial rates, this project investigates the *
 - **Total Projected Loss**: $98,069
 
 ###  Top Two Denial Reasons
-- **Incorrect Billing Information**: $15.3K loss  
-- **Authorization Not Obtained**: $13.64K loss  
+- **Incorrect Billing Information**: $15.3K loss
+  - CPT Code **99221** is the highest contributor with an 18.36% effect.      
+- **Authorization Not Obtained**: $13.64K loss 
+  - CPT Code **99233** is the highest contributor with a 16.7% effect.  
 - Combined, these two represent **29.5% of total losses**  
 
 ###  CPT Code Analysis
-- **99221**: Highest denial rate due to billing errors (Inpatient hospital care)
 - **99233** and **99215**: Most frequently denied overall
 
 ###  Insurance Type Breakdown
