@@ -1,75 +1,74 @@
-# Introduction
+# 🏥 Claims Denial Analysis Dashboard
 
-Health insurance denials have been increasing in the upcoming years, with Senator Wiener introducing legislation to hold insurance companies Accountable, known as the Health Insurance Accountability Act (SB 363), for 2025-2056. There are several reasons why claims are denied, including not being covered by the insurance, requiring prior authorization, or the physician not being in the insurer's network. Think Global Health, a reliable online bulletin that provides forum in how "health influences and interacts with broader social, economic, and demographic trends." posted an article titled "Claim Denied: U.S. Insurnace and Health Equity", which stated that non-Hisptanic white patients are twice less likely to get their claims denied compared to other demographics and patients that make $30,000 or less per household has a 43% more likely to be denied.  
+## 📌 Introduction
 
-As this problem continues to persist, this project will focus on the main reason why Insurance Companies are denying the claims, how much money hospitals are potentially losing and hopefully, this can provide insights on what hospitals can do to reduce these claims. Since Healthcare claims data are hard to obtain, the dataset contains synthetic data, but the analysis and approach are the same. 
+Health insurance denials have been steadily increasing in recent years. In response, Senator Wiener introduced the **Health Insurance Accountability Act (SB 363)** (2025–2056) to improve transparency and accountability among insurance providers.
 
-# Insights
+There are multiple reasons why claims get denied — including lack of coverage, missing prior authorizations, or providers being out-of-network. A recent article titled *“Claim Denied: U.S. Insurance and Health Equity”* (Think Global Health) noted that:
+- **Non-Hispanic white patients are twice less likely** to have claims denied compared to other demographics.
+- **Households earning $30,000 or less** are **43% more likely** to face denials.
 
- Overall Denial Rate & Financial Impact
+Given these disparities and rising denial rates, this project investigates the **main causes of denials**, **financial losses incurred by hospitals**, and **actionable solutions** to reduce preventable denials. While the dataset is synthetic due to privacy concerns, the methodology and insights reflect real-world healthcare analytics practices.
 
-  - Denial rate: 32.8%
+---
 
-  - Total projected financial loss: $98,069
+## 📊 Insights
 
-Top Denial Reasons
+### 🔸 Overall Denial Rate & Financial Impact
+- **Denial Rate**: 32.8%
+- **Total Projected Loss**: $98,069
 
-  - Incorrect Billing Information: $15.3K loss
+### 🔸 Top Denial Reasons
+- **Incorrect Billing Information**: $15.3K loss  
+- **Authorization Not Obtained**: $13.64K loss  
+- Combined, these two represent **29.5% of total losses**  
+- **Recommendation**: Improve billing audits and ensure prior authorizations are properly documented.
 
-  - Authorization Not Obtained: $13.64K loss
+### 🔸 CPT Code Analysis
+- **99221**: Highest denial rate due to billing errors (Inpatient hospital care)
+- **99233** and **99215**: Most frequently denied overall
 
-  - These two account for 29.5% of total losses
+### 🔸 Insurance Type Breakdown
 
-  - Recommendation: Hospitals should review itemized bills more thoroughly and ensure proper authorization is obtained before procedures
+#### 🏦 Commercial / Private Insurance
+- Responsible for **over 50% of all denials**
+- **53%** due to *Lack of Medical Necessity*
+- **39%** due to *Pre-existing Conditions*
+- Denials show a downward trend from **May to September**
 
-CPT Code Analysis
+#### 💸 Self-Pay
+- Similar denial pattern to commercial insurance
+- Primary issue: **Duplicate Claims**
+- Duplicate claims increased by **60%** from May to September
+- Indicates possible re-submission of identical claims — warrants further review
 
-  - CPT Code 99221: Most denied due to incorrect billing (related to inpatient hospital care)
+#### 🏛 Medicare
+- Main denial reason: **Incorrect Billing Information**
+- May reflect systemic documentation issues or process complexity
 
-  - CPT Codes 99233 and 99215: Highest overall denial counts
+#### 🏥 Medicaid
+- **39%** of denials due to *Patient Eligibility Issues*
+- **38%** due to *Lack of Medical Necessity*
+- Denials from medical necessity have **steadily increased from May to September**
+- Suggests potential misuse or insufficient clinical justification in some cases
 
- # Insurance Type Breakdown
+---
 
-  - Commercial/Private Insurance
+## ✅ Conclusion
 
-    - Responsible for over 50% of total denials
+This analysis highlights key areas where hospitals and providers can reduce claim denials and prevent revenue loss. While insurance companies may continue to apply strict criteria, healthcare organizations can mitigate avoidable denials by:
 
-    - Denial reasons:
+- Strengthening billing and authorization protocols
+- Training staff on high-risk CPT codes and payer rules
+- Using analytics to monitor seasonal trends and submission errors
 
-      - 53% due to Lack of Medical Necessity
+Improving claims processes not only helps recover revenue but also promotes equitable access to care.
 
-      - 39% due to Pre-existing Conditions
+---
 
-  - Denials decreased from May to September
+## 🔗 View the Dashboard
 
-Self-Pay: 
+➡️ [**Interactive Tableau Dashboard**](https://blater54.github.io/Claims-Denial-Analysis/Visualizations.html)
 
-  - Shows a similar downward trend in denials (May–Sept)
+---
 
-  - Primary denial reason: Duplicate Claims
-
-  - Duplicate claims increased by 60% from May to September
-
-  - Suggests facilities may be submitting claims multiple times for the same patient ID — requires further investigation
-
-Medicare: 
-
-  - Primary denial reason: Incorrect Billing Information
-
-  - Suggests potential age-related documentation errors
-
-Medicaid: 
-
-  - Primary denial reasons:
-
-    - 39% – Patient Eligibility Issues
-
-    - 38% – Lack of Medical Necessity
-
-Denials due to Lack of Medical Necessity have been steadily increasing from May to September
-
-Potential issue: overuse or abuse of services without clinical justification
-
-# Conclusion
-
-As healthcare denial claims continue to increase, the data shows that there are actions that can reduce the denial claims. Insurance companies will always find ways to deny claims, but if we are meticulous with our approaches (by hiring/training more staff who are thorough with the process), the healthcare system will slowly improve, and this war can finally be over. 
