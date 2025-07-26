@@ -23,7 +23,7 @@ Given these disparities and rising denial rates, this project investigates the *
   - CPT Code **99221** is the highest contributor with an 18.36% effect.      
 - **Authorization Not Obtained**: $13.64K loss 
   - CPT Code **99233** is the highest contributor with a 16.7% effect.  
-- Combined, these two represent **29.5% of total losses**  
+- Combing Incorrect Billing Information and Authorization Not Obtained, these two represent **29.5% of total losses**  
 
 ###  CPT Code Analysis
 - **99233** and **99215**: Most frequently denied overall
@@ -40,7 +40,7 @@ Given these disparities and rising denial rates, this project investigates the *
 - Similar denial pattern to commercial insurance
 - Primary issue: **Duplicate Claims**
 - Duplicate claims increased by **60%** from May to September
-- Indicates possible re-submission of identical claims — warrants further review
+- Indicates possible resubmission of identical claims — warrants further review
 
 ####  Medicare
 - Main denial reason: **Incorrect Billing Information**
