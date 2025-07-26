@@ -53,7 +53,7 @@ Given these disparities and rising denial rates, this project investigates the *
 - Suggests potential misuse or insufficient clinical justification in some cases
 
 ---
-![screenshot][Insurance Denial Dashboard.png]
+![screenshot](Insurance Denial Dashboard.png)
 ##  Conclusion
 
 This analysis highlights key areas where hospitals and providers can reduce claim denials and prevent revenue loss. While insurance companies may continue to apply strict criteria, healthcare organizations can mitigate avoidable denials by:
