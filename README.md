@@ -6,65 +6,65 @@ As this problem continues to persist, this project will focus on the main reason
 
 # Insights
 
-Overall Denial Rate & Financial Impact
+ Overall Denial Rate & Financial Impact
 
-Denial rate: 32.8%
+  - Denial rate: 32.8%
 
-Total projected financial loss: $98,069
+  - Total projected financial loss: $98,069
 
 Top Denial Reasons
 
-Incorrect Billing Information: $15.3K loss
+  - Incorrect Billing Information: $15.3K loss
 
-Authorization Not Obtained: $13.64K loss
+  - Authorization Not Obtained: $13.64K loss
 
-These two account for 29.5% of total losses
+  - These two account for 29.5% of total losses
 
-Recommendation: Hospitals should review itemized bills more thoroughly and ensure proper authorization is obtained before procedures
+  - Recommendation: Hospitals should review itemized bills more thoroughly and ensure proper authorization is obtained before procedures
 
 CPT Code Analysis
 
-CPT Code 99221: Most denied due to incorrect billing (related to inpatient hospital care)
+  - CPT Code 99221: Most denied due to incorrect billing (related to inpatient hospital care)
 
-CPT Codes 99233 and 99215: Highest overall denial counts
+  - CPT Codes 99233 and 99215: Highest overall denial counts
 
 Insurance Type Breakdown
 
-Commercial/Private Insurance
+  - Commercial/Private Insurance
 
-Responsible for over 50% of total denials
+    - Responsible for over 50% of total denials
 
-Denial reasons:
+    - Denial reasons:
 
-53% due to Lack of Medical Necessity
+      - 53% due to Lack of Medical Necessity
 
-39% due to Pre-existing Conditions
+      - 39% due to Pre-existing Conditions
 
-Denials decreased from May to September
+  - Denials decreased from May to September
 
 Self-Pay
 
-Shows a similar downward trend in denials (May–Sept)
+  - Shows a similar downward trend in denials (May–Sept)
 
-Primary denial reason: Duplicate Claims
+  - Primary denial reason: Duplicate Claims
 
-Duplicate claims increased by 60% from May to September
+  - Duplicate claims increased by 60% from May to September
 
-Suggests facilities may be submitting claims multiple times for the same patient ID — requires further investigation
+  - Suggests facilities may be submitting claims multiple times for the same patient ID — requires further investigation
 
 Medicare
 
-Primary denial reason: Incorrect Billing Information
+  - Primary denial reason: Incorrect Billing Information
 
-Suggests potential age-related documentation errors
+  = Suggests potential age-related documentation errors
 
 Medicaid
 
-Primary denial reasons:
+  - Primary denial reasons:
 
-39% – Patient Eligibility Issues
+    - 39% – Patient Eligibility Issues
 
-38% – Lack of Medical Necessity
+    - 38% – Lack of Medical Necessity
 
 Denials due to Lack of Medical Necessity have been steadily increasing from May to September
 
