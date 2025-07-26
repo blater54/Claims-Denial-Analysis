@@ -42,7 +42,7 @@ CPT Code Analysis
 
   - Denials decreased from May to September
 
-Self-Pay
+Self-Pay: 
 
   - Shows a similar downward trend in denials (May–Sept)
 
@@ -52,13 +52,13 @@ Self-Pay
 
   - Suggests facilities may be submitting claims multiple times for the same patient ID — requires further investigation
 
-Medicare
+Medicare: 
 
   - Primary denial reason: Incorrect Billing Information
 
-  = Suggests potential age-related documentation errors
+  - Suggests potential age-related documentation errors
 
-Medicaid
+Medicaid: 
 
   - Primary denial reasons:
 
