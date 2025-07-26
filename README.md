@@ -52,8 +52,9 @@ Given these disparities and rising denial rates, this project investigates the *
 - Denials from medical necessity have **steadily increased from May to September**
 - Suggests potential misuse or insufficient clinical justification in some cases
 
+![Insurance Denial Dashboard](./Insurance%20Denial%Dashboard.png)
 ---
-![Alt text](Insurance Denial Dashboard.png)
+
 ##  Conclusion
 
 This analysis highlights key areas where hospitals and providers can reduce claim denials and prevent revenue loss. While insurance companies may continue to apply strict criteria, healthcare organizations can mitigate avoidable denials by:
