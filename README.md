@@ -1,4 +1,4 @@
-# Claims-Denial-Analysis
+# Claims-Denial-Analysis Introduction
 
 Health insurance denials have been increasing in the upcoming years, with Senator Wiener introducing legislation to hold insurance companies Accountable, known as the Health Insurance Accountability Act (SB 363), for 2025-2056. There are several reasons why claims are denied, including not being covered by the insurance, requiring prior authorization, or the physician not being in the insurer's network. Think Global Health, a reliable online bulletin that provides forum in how "health influences and interacts with broader social, economic, and demographic trends." posted an article titled "Claim Denied: U.S. Insurnace and Health Equity", which stated that non-Hisptanic white patients are twice less likely to get their claims denied compared to other demographics and patients that make $30,000 or less per household has a 43% more likely to be denied.  
 
