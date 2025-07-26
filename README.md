@@ -52,7 +52,8 @@ Given these disparities and rising denial rates, this project investigates the *
 - Denials from medical necessity have **steadily increased from May to September**
 - Suggests potential misuse or insufficient clinical justification in some cases
 
-![Insurance Denial Dashboard](./Insurance%20Denial%Dashboard.png)
+![Insurance Denial Dashboard](https://raw.githubusercontent.com/blater54/Claims-Denial-Analysis/main/Insurance%20Denial%20Dashboard.png)
+
 ---
 
 ##  Conclusion
