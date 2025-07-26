@@ -28,7 +28,7 @@ CPT Code Analysis
 
   - CPT Codes 99233 and 99215: Highest overall denial counts
 
-Insurance Type Breakdown
+ # Insurance Type Breakdown
 
   - Commercial/Private Insurance
 
