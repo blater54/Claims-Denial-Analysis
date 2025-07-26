@@ -6,9 +6,69 @@ As this problem continues to persist, this project will focus on the main reason
 
 # Insights
 
-Based on the Data provided, there is a denial rate of 32.8% and the total loss is $98,069. The top two reasons are Incorrect Billing Information (loss of $15.3k) and Authorization not obtained ($13.64k), which make up for 29.5% of the Total loss. One of the solutions is to ensure that hospitals take more time reviewing the bill amount ( listing the Itemized Bill) and having the authorization to perform the procedure. The visualizations also showed that the CPT Code 99221 has the most denied claims for Incorrect billing information, which makes sense since CPT code 99221 is about Inpatient hospital care. Upon looking through the analysis, we noticed that CPT Code 99233 and CPT Code 99215 have the most denial claims.
+Overall Denial Rate & Financial Impact
 
-If we look at the insurance company, more than half of insurance denials come from Commercial/private insurance companies, with 53% comes from "Lack of medical Necessity," and 39% coming from "pre-existing condition". However, if we look at the graph, we can see a decline in denials from May to September. If we look at self-pay, we can see it has a similar trend to Commercial. However, the primary reason why the Insurance denied these claims is because of a Duplicate claim. This can suggest that health care facilities are sending multiple claims of the same patient ID. This issue is so common that from May to September, there was a 60% increase and needs to be further investigated. Medicare and Medicaid are government-funded health insurance programs, with Medicare aiding individuals 65 and older while Medicaid is for individuals with limited income and resources. Medicare's primary reason for denial is "incorrect billing information". We can see how this is a common problem, as forgetfulness comes with age. For Medicaid, the primary reasons are "patient eligibility issues", having a 39% denial rate, and "lack of medical necessity", with a 38%. Data shows that the lack of medical necessity will continue to rise from May to September, as it has been steadily increasing. This can be related to patients abusing the program and continuously visiting a healthcare facility where it is not needed. 
+Denial rate: 32.8%
+
+Total projected financial loss: $98,069
+
+Top Denial Reasons
+
+Incorrect Billing Information: $15.3K loss
+
+Authorization Not Obtained: $13.64K loss
+
+These two account for 29.5% of total losses
+
+Recommendation: Hospitals should review itemized bills more thoroughly and ensure proper authorization is obtained before procedures
+
+CPT Code Analysis
+
+CPT Code 99221: Most denied due to incorrect billing (related to inpatient hospital care)
+
+CPT Codes 99233 and 99215: Highest overall denial counts
+
+Insurance Type Breakdown
+
+Commercial/Private Insurance
+
+Responsible for over 50% of total denials
+
+Denial reasons:
+
+53% due to Lack of Medical Necessity
+
+39% due to Pre-existing Conditions
+
+Denials decreased from May to September
+
+Self-Pay
+
+Shows a similar downward trend in denials (May–Sept)
+
+Primary denial reason: Duplicate Claims
+
+Duplicate claims increased by 60% from May to September
+
+Suggests facilities may be submitting claims multiple times for the same patient ID — requires further investigation
+
+Medicare
+
+Primary denial reason: Incorrect Billing Information
+
+Suggests potential age-related documentation errors
+
+Medicaid
+
+Primary denial reasons:
+
+39% – Patient Eligibility Issues
+
+38% – Lack of Medical Necessity
+
+Denials due to Lack of Medical Necessity have been steadily increasing from May to September
+
+Potential issue: overuse or abuse of services without clinical justification
 
 # Conclusion
 
