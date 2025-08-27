@@ -1,6 +1,6 @@
 #  Claims Denial Analysis Dashboard
 
-## 📌 Introduction
+## Introduction
 
 Health insurance denials have been steadily increasing in recent years. In response, Senator Wiener introduced the **Health Insurance Accountability Act (SB 363)** (2025–2056) to improve transparency and accountability among insurance providers.
 
@@ -12,7 +12,7 @@ Given these disparities and rising denial rates, this project investigates the *
 
 ---
 
-## 📊 Insights
+## Insights
 
 ###  Overall Denial Rate & Financial Impact
 - **Denial Rate**: 32.8%
