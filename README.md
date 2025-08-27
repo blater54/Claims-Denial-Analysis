@@ -68,9 +68,9 @@ Improving claims processes not only helps recover revenue but also promotes equi
 
 ---
 
-## 🔗 View the Dashboard
+## View the Dashboard
 
-➡️ [**Interactive Tableau Dashboard**](https://blater54.github.io/Claims-Denial-Analysis/Visualizations.html)
+ [**Interactive Tableau Dashboard**](https://blater54.github.io/Claims-Denial-Analysis/Visualizations.html)
 
 ---
 
